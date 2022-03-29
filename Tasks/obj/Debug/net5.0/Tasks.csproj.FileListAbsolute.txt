@@ -1,0 +1,16 @@
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\bin\Debug\net5.0\Tasks.exe
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\bin\Debug\net5.0\Tasks.deps.json
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.json
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\bin\Debug\net5.0\Tasks.runtimeconfig.dev.json
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\bin\Debug\net5.0\Tasks.dll
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\bin\Debug\net5.0\Tasks.pdb
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\Tasks.csproj.AssemblyReference.cache
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfoInputs.cache
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\Tasks.AssemblyInfo.cs
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\Tasks.csproj.CoreCompileInputs.cache
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\Tasks.dll
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\refint\Tasks.dll
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\Tasks.pdb
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\Tasks.genruntimeconfig.cache
+A:\Users\ajuga\source\repos\PracticaISP_20_4\Tasks\obj\Debug\net5.0\ref\Tasks.dll
